@@ -9,13 +9,12 @@ Reference:
 - Add `MAINNET_RPC_ENDPOINT` to `foundry.toml`
 
 ## Local Development
-Clone this repository, install Node.js dependencies, and build the source code:
+Clone this repository and build the source code:
 
 ```bash
-git clone git@github.com:AppWorks-School/Blockchain-Resource.git
-cd Blockchain-Resource/section3/UniswapV2Practice
+git clone https://github.com/max881230/Week10_practice.git
+cd Week10_practice
 forge install
-forge build
 forge test
 ```
 
